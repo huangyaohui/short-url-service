@@ -118,7 +118,7 @@
 
 **Swagger地址**： http://localhost:8080/swagger-ui
 
-![image-20230131114238340](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20230131114238340.png)
+![image-20230131142241297](README/image-20230131142241297.png)
 
 
 
@@ -175,9 +175,11 @@ maven install
 
 
 
-![image-20230131134410017](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20230131134410017.png)
+![image-20230131142258932](README/image-20230131142258932.png)
 
 查看报告，打开index.html
 
-![image-20230131133427441](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20230131133427441.png)
+![image-20230131142314363](README/image-20230131142314363.png)
+
+
 
